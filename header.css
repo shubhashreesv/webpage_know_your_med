@@ -1,0 +1,55 @@
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+    color: black;
+}
+
+.active {
+    background-color: #34495E;
+    color: white;
+}
+
+h1 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 50px;
+    text-align: center;
+}
+
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    background-color: #333;
+}
+
+li:hover .dropdown {
+    display: block;
+}
+
+.dropdown li {
+    float: none;
+}
+
+.dropdown li a {
+    padding: 12px 16px;
+}
