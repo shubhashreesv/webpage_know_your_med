@@ -1,5 +1,6 @@
 # webpage_know_your_med
 A webpage using HTML, CSS, BootStrap5 with required scripting using Js
+
 We have linked our search bar with drugs.com to showcase the drug data based on the user's input
 
 View the webpage : 
