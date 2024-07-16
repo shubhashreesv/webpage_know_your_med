@@ -3,8 +3,11 @@ A webpage using HTML, CSS, BootStrap5 with required scripting using Js
 We have linked our search bar with drugs.com to showcase the drug data based on the user's input
 
 View the webpage : 
+
 ![index.php](webpage_know_your_med_output1.jpg)
-![index.php](webpage_know_your_med_output2jpg)
+
+![index.php](webpage_know_your_med_output2.jpg)
+
 
 **Steps to Run our code:** 
 1. Clone our repository
