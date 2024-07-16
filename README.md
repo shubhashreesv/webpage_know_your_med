@@ -5,7 +5,7 @@ We have linked our search bar with drugs.com to showcase the drug data based on 
 
 View the webpage : 
 
-![index.php](webpage_know_your_med_output1.jpg)
+![Medication.php](webpage_know_your_med_output1.jpg)
 
 ![index.php](webpage_know_your_med_output2.jpg)
 
