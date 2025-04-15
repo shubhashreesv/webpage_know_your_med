@@ -14,7 +14,7 @@ View the webpage :
 1. Clone our repository
 3. Navigate to the project directory
 4. View the code in any Text Editor 
-5. Open index.html in Web Browser
+5. Open index.html in Web Browser 
 
 **Functionality we provided to our website :**
 
